@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Página principal -->
     <url>
         <loc>https://www.grupoar.com/index.html</loc>
         <lastmod>2023-11-15</lastmod>
         <priority>1.0</priority>
     </url>
+
+    <!-- Páginas de servicios -->
     <url>
         <loc>https://www.grupoar.com/electricidad.html</loc>
         <lastmod>2023-11-15</lastmod>
@@ -15,5 +19,32 @@
         <lastmod>2023-11-15</lastmod>
         <priority>0.8</priority>
     </url>
-    <!-- Agrega todas las páginas -->
+    <url>
+        <loc>https://www.grupoar.com/impermeabilizacion.html</loc>
+        <lastmod>2023-11-15</lastmod>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.grupoar.com/remodelaciones.html</loc>
+        <lastmod>2023-11-15</lastmod>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Otras páginas -->
+    <url>
+        <loc>https://www.grupoar.com/gracias.html</loc>
+        <lastmod>2023-11-15</lastmod>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://www.grupoar.com/privacidad.html</loc>
+        <lastmod>2023-11-15</lastmod>
+        <priority>0.3</priority>
+    </url>
+    <url>
+        <loc>https://www.grupoar.com/404.html</loc>
+        <lastmod>2023-11-15</lastmod>
+        <priority>0.1</priority>
+    </url>
+
 </urlset>
