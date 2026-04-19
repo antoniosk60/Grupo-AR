@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /privacidad.html  # Opcional: si no quieres que se indexe
+
+Sitemap: https://www.grupoar.com/sitemap.xml
